@@ -53,7 +53,7 @@ internal object AccorColorPrimitives {
     val Gold61 = Color(0xFFAF913A)
     val Gold70 = Color(0xFFC4A963)
     val Gold78 = Color(0xFFD7BF7A)
-    val Grey0 = Color(0xFF000000)
+    val Grey0 = Color(0xFFFF0000)
     val Grey100 = Color(0xFFFFFFFF)
     val Grey37 = Color(0xFF54585A)
     val Grey47 = Color(0xFF6D7072)
